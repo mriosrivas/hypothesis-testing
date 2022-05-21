@@ -76,7 +76,7 @@ The average reduction in tumor size under the new drug **is greater** than the a
 
 $H_1: \mu_n-\mu_o \gt 0$
 
-![Alt text](/media/manuel/storage/Courses/Udacity/Notes/confussion_matrix.png "a title")
+![Alt text](confussion_matrix.png "a title")
 
 Example of a Type I error can be:
 
